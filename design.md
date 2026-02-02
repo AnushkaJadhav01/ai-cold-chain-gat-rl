@@ -2,6 +2,9 @@
 ## Project: AI-Driven Multi-Depot Cold Chain Optimization using GAT-RL
 
 ---
+## System Architecture Diagram
+
+![AI-Driven Cold Chain Optimization Architecture](assets/architecture.png)
 
 ## 1. Purpose of This Document
 
